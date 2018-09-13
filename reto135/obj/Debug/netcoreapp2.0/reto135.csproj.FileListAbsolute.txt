@@ -1,0 +1,10 @@
+C:\Users\bs-46_000\Documents\VSC\appPD\reto135\bin\Debug\netcoreapp2.0\reto135.deps.json
+C:\Users\bs-46_000\Documents\VSC\appPD\reto135\bin\Debug\netcoreapp2.0\reto135.runtimeconfig.json
+C:\Users\bs-46_000\Documents\VSC\appPD\reto135\bin\Debug\netcoreapp2.0\reto135.runtimeconfig.dev.json
+C:\Users\bs-46_000\Documents\VSC\appPD\reto135\bin\Debug\netcoreapp2.0\reto135.dll
+C:\Users\bs-46_000\Documents\VSC\appPD\reto135\bin\Debug\netcoreapp2.0\reto135.pdb
+C:\Users\bs-46_000\Documents\VSC\appPD\reto135\obj\Debug\netcoreapp2.0\reto135.csproj.CoreCompileInputs.cache
+C:\Users\bs-46_000\Documents\VSC\appPD\reto135\obj\Debug\netcoreapp2.0\reto135.AssemblyInfoInputs.cache
+C:\Users\bs-46_000\Documents\VSC\appPD\reto135\obj\Debug\netcoreapp2.0\reto135.AssemblyInfo.cs
+C:\Users\bs-46_000\Documents\VSC\appPD\reto135\obj\Debug\netcoreapp2.0\reto135.dll
+C:\Users\bs-46_000\Documents\VSC\appPD\reto135\obj\Debug\netcoreapp2.0\reto135.pdb
